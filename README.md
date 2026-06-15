@@ -125,7 +125,7 @@
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrinmy-765&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mrinmoy-765&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinmoy-765&theme=tokyonight&hide_border=true&background=0D1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" alt="GitHub Streak" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoy-765&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=c9d1d9" alt="Top Languages" />
