@@ -136,7 +136,6 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mrinmoy-765&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" alt="trophies"/>
 
 </div>
 
